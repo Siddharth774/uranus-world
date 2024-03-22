@@ -582,12 +582,12 @@ section {
 }
 
 .clients .swiper-slide img {
-  opacity: 0.5;
-  transition: 0.01;
+  /* opacity: 0.5; */
+  transition: 0.01s ease;
   /* animation: continuousAnimation 0ms infinite; */
   /* transition: transform 0.1s linear; */
   /* animation: continuousAnimation 1s linear infinite; */
-  filter: grayscale(100);
+  /* filter: grayscale(100); */
 }
 
 .clients .swiper-slide img:hover {
